@@ -1,4 +1,4 @@
-# sql_foodiefi_portfolio_project
+# SQL Business CaseStudy Portfolio Project
 
 Introduction:
 Danny identified a market gap and launched Foodie-Fi, a streaming service exclusively for food-related content, 
