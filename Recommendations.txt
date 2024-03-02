@@ -1,9 +1,18 @@
-OUTSIDE THE BOX QUESTIONS:
-What business levers could the Foodie-Fi team use to reduce the customer churn rate?
--- Improve Onboarding and First time Experience, Affordable Pricing, Implement Customer Loyalty programs with additional benefits, Management's Polite nature with Customers etc.
+Key Highlights of the Project:
+-- Average customer onboarding for Annual plan are 105 days
+-- 307 out of 1000 customers churned with a 30.7% Churn Rate
+-- 92 customers churned after Free plan with a ~9% Churn Rate
+-- 0 customers downgraded from Annual to Basic plan
+-- 546 customers upgraded from Free to Basic plan
 
-What are some key customer journeys or experiences that you would analyze further to improve customer retention?
--- Key customer experiences such as Onboarding process, Feedbacks and Reviews, Personalization and Customizations, Loyalty programs etc.
 
-If the Foodie-Fi team were to create an exit survey shown to customers who wish to cancel their subscription, what questions would you include in the survey?
--- Questions should focus on Reasons for Cancellation, Feedback on Products and Pricing, Comments on Management and Future Interests etc.
+Tools / Skills used in the Project:
+-- CTEs (Common Table Expressions)
+-- Conditional Statements
+-- Aggregate Functions
+-- Window Functions
+-- Data Manipulation Functions
+-- Joins
+
+
+I invite you to visit my LinkedIn page to view the full project presentation covering everything from Introduction, Plans, Code snippets and Outside the box questions.
