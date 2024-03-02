@@ -1,0 +1,10 @@
+OUTSIDE THE BOX QUESTIONS:
+
+What business levers could the Foodie-Fi team use to reduce the customer churn rate?
+-- Improve Onboarding and First time Experience, Affordable Pricing, Implement Customer Loyalty programs with additional benefits, Management's Polite nature with Customers etc.
+
+What are some key customer journeys or experiences that you would analyze further to improve customer retention?
+-- Key customer experiences such as Onboarding process, Feedbacks and Reviews, Personalization and Customizations, Loyalty programs etc.
+
+If the Foodie-Fi team were to create an exit survey shown to customers who wish to cancel their subscription, what questions would you include in the survey?
+-- Questions should focus on Reasons for Cancellation, Feedback on Products and Pricing, Comments on Management and Future Interests etc.
