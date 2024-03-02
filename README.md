@@ -8,12 +8,14 @@ Foodie-Fi offers monthly and annual subscriptions, providing unlimited on-demand
 worldwide. With a data-driven approach, Danny aimed to make informed investment decisions and develop new features
 using subscription-style digital data. This case study emphasizes the use of data to address crucial business inquiries.
 
+
 Table1: PLANS
 -- Customers choose plans (Basic or Pro) when signing up for Foodie-Fi.
 -- Basic plan: Limited access, monthly subscription at $9.90.
 -- Pro plan: No watch time limits, offline video downloads. Monthly subscription starts at $19.90 or annual subscription at $199.
 -- Customers get a 7-day free trial, automatically continuing with Pro monthly unless they cancel, downgrade to Basic, or upgrade to Annual Pro.
 -- When customers cancel, they have a churn plan record with null price but continue until the billing period ends.
+
 
 Table2: SUBSCRICTIONS
 -- Customer subscriptions have start dates corresponding to their specific "plan_id". 
