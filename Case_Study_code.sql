@@ -182,7 +182,7 @@ from
     on trial info.customer_id= annual_info.customer_id)
 
 select
-    concat((avg_days 30), '', ((avg_days 1) 30), days') as breakdown, count(*) as customers
+    concat((avg_days 30), '', ((avg_days 1) 30), days) as breakdown, count(*) as customers
 from
     buckets
 group by
@@ -207,5 +207,3 @@ from
     next_plan_cte
 where
     start_date = '2020-12-31' and plan_id = 2 and next_plan = 1;
-
-    
