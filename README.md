@@ -14,6 +14,9 @@ Danny aims to leverage subscription-style digital data to inform investment deci
 By adopting a data-driven approach, the end goal is to enhance decision-making processes, increase efficiency in resource allocation, 
 and drive business growth by aligning investments with identified opportunities and customer needs.
 
+## Stakeholder(s):
+CEO/Founder
+
 ## Table1: PLANS
 -- Customers choose plans (Basic or Pro) when signing up for Foodie-Fi.
 -- Basic plan: Limited access, monthly subscription at $9.90.
