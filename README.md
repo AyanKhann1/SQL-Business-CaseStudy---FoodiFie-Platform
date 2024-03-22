@@ -2,12 +2,17 @@
 
 ## Introduction:
 Danny identified a market gap and launched Foodie-Fi, a streaming service exclusively for food-related content, 
-like Netflix but dedicated to cooking shows.
+like Netflix but dedicated to cooking shows. Foodie-Fi offers monthly and annual subscriptions, providing unlimited on-demand access to exclusive food videos 
+worldwide. 
 
-Foodie-Fi offers monthly and annual subscriptions, providing unlimited on-demand access to exclusive food videos 
-worldwide. With a data-driven approach, Danny aimed to make informed investment decisions and develop new features
-using subscription-style digital data. This case study emphasizes the use of data to address crucial business inquiries.
+## Business Problem
+Danny faces a challenge in making investment decisions without sufficient data-driven insights. 
+This lack of data-driven decision-making may result in suboptimal allocation of resources and investments.
 
+## Goals
+Danny aims to leverage subscription-style digital data to inform investment decisions and develop new features effectively. 
+By adopting a data-driven approach, the end goal is to enhance decision-making processes, increase efficiency in resource allocation, 
+and drive business growth by aligning investments with identified opportunities and customer needs.
 
 ## Table1: PLANS
 -- Customers choose plans (Basic or Pro) when signing up for Foodie-Fi.
@@ -15,7 +20,6 @@ using subscription-style digital data. This case study emphasizes the use of dat
 -- Pro plan: No watch time limits, offline video downloads. Monthly subscription starts at $19.90 or annual subscription at $199.
 -- Customers get a 7-day free trial, automatically continuing with Pro monthly unless they cancel, downgrade to Basic, or upgrade to Annual Pro.
 -- When customers cancel, they have a churn plan record with null price but continue until the billing period ends.
-
 
 ## Table2: SUBSCRICTIONS
 -- Customer subscriptions have start dates corresponding to their specific "plan_id". 
